@@ -1,1 +1,1 @@
-# ignited-mind
+# bashscripts
